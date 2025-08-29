@@ -30,7 +30,7 @@ The ls command is used to display a list of content of a directory.
 
 The pwd command is used to display the location of the current working directory.
 
-Syntax: pwd
+Syntax: pwd <br>
 <img width="775" height="71" alt="image" src="https://github.com/user-attachments/assets/8e247fcf-d66a-4e80-949d-0425bc449977" />
 
 
@@ -70,7 +70,7 @@ Syntax: cat [OPTION]... [FILE]..
 
 <img width="772" height="67" alt="image" src="https://github.com/user-attachments/assets/f43c8e1e-b173-4374-914c-c18c47e21404" />
 
-<img width="771" height="69" alt="image" src="https://github.com/user-attachments/assets/8e371786-3129-4726-ab8e-583ca18e8ee6" />
+<img width="771" height="69" alt="image" src="https://github.com/user-attachments/assets/8e371786-3129-4726-ab8e-583ca18e8ee6" /> <br>
 ### 7)	cp Command
 
 The cp command is used to copy a file or directory.
@@ -84,14 +84,14 @@ Syntax: cp <existing file name> <new file name>
 
 The gedit is a general-purpose text editor. It can be used to create and edit all kinds of text files.
 
-Syntax: gedit file_name
+Syntax: gedit file_name <br>
 <img width="763" height="53" alt="image" src="https://github.com/user-attachments/assets/0af59bc1-4b14-459f-bd3d-7f8f049a76d8" />
 
 ### 9)	su Command
 
 The su command provides administrative access to another user. In other words, it allows access of the Linux shell to another user.
 
-Syntax: su <user name>
+Syntax: su <user name> <br>
 <img width="751" height="65" alt="image" src="https://github.com/user-attachments/assets/5173ffbf-c7b1-49ee-accf-a03486882e22" />
 
 
@@ -252,7 +252,7 @@ Syntax: clear
 
 The mail command is used to send emails from the command line.
 
-Syntax: mail -s "Subject" <recipient address>
+Syntax: mail -s "Subject" <recipient address> <br>
 <img width="764" height="112" alt="image" src="https://github.com/user-attachments/assets/7740fff2-e1f5-4a00-8b6e-4abe2d0309ee" />
 
  
