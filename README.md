@@ -209,7 +209,7 @@ The host command is used to display the IP address for a given domain name and v
 
 Syntax: host <domain name> or <ip address>
 
-<img width="477" height="90" alt="Screenshot 2025-08-24 200228" src="https://github.com/user-attachments/assets/1e9854ba-13ed-4de4-b3cc-30746efadab5" />
+<img width="759" height="134" alt="image" src="https://github.com/user-attachments/assets/a67e40d1-cfec-493a-ac5c-53af26de6052" />
 
 
 ### 24)	gzip Command
@@ -218,7 +218,7 @@ The gzip command is used to truncate the file size. It is a compressing tool. It
 
 Syntax: gzip <file1> <file2> <file3>..
 
-<img width="737" height="174" alt="Screenshot 2025-08-24 200237" src="https://github.com/user-attachments/assets/b2de0e9a-bbc1-47e3-bdbe-93acff1da889" />
+<img width="754" height="215" alt="image" src="https://github.com/user-attachments/assets/d2da4be6-3a6f-4b81-8eff-537e1cefd090" />
 
 
 ### 25)	sort Command
