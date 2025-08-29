@@ -192,7 +192,7 @@ The ifconfig command is used to configure kernel-resident network interface.
 
 Syntax: ifconfig[options][interface]
 
-<img width="809" height="87" alt="Screenshot 2025-08-24 200216" src="https://github.com/user-attachments/assets/16959acd-ce6a-464b-87a5-5d58244c5534" />
+<img width="888" height="121" alt="image" src="https://github.com/user-attachments/assets/83b6eb99-377a-45ef-8ffd-5fe66ec8c9e2" />
 
 ### 22)	chmod 777 Command
 
@@ -201,7 +201,7 @@ The chmod 777 command gives read, write and execute permission to the owner, gro
 Syntax: chmod 777 file_name
 $chmod -R 777 /path/to/file/or/folder
 
- <img width="503" height="111" alt="Screenshot 2025-08-24 200222" src="https://github.com/user-attachments/assets/4a62bbaa-feef-4884-81ee-1dfe2392c6ef" />
+<img width="757" height="130" alt="image" src="https://github.com/user-attachments/assets/af9a7af8-01cb-417a-a827-42d71691204d" />
 
 ### 23)	host Command
 
