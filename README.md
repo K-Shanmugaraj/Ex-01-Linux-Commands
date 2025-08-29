@@ -21,7 +21,7 @@ All basic and advanced tasks can be done by executing commands. The commands are
 
 The ls command is used to display a list of content of a directory.
 
- Syntax: ls
+ Syntax: ls <br>
 <img width="776" height="78" alt="image" src="https://github.com/user-attachments/assets/773dd5f8-6a6e-449c-a208-6cc04d577987" />
 
 
