@@ -59,7 +59,7 @@ The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
 
-<img width="236" height="45" alt="Screenshot 2025-08-24 194910" src="https://github.com/user-attachments/assets/2c33e194-2aad-4c10-8e95-9141e6a26bda" />
+<img width="774" height="51" alt="image" src="https://github.com/user-attachments/assets/6110d95d-1d3d-4bff-ae71-0717bc51d5a2" />
 
 
 ### 6)	cat Command
@@ -68,31 +68,31 @@ The cat command is a multi-purpose utility in the Linux system. It can be used t
 
 Syntax: cat [OPTION]... [FILE]..
 
- <img width="271" height="133" alt="Screenshot 2025-08-24 194531" src="https://github.com/user-attachments/assets/b54f4fd5-bd77-426b-b494-5de8e4533e92" />
+<img width="772" height="67" alt="image" src="https://github.com/user-attachments/assets/f43c8e1e-b173-4374-914c-c18c47e21404" />
+
+<img width="771" height="69" alt="image" src="https://github.com/user-attachments/assets/8e371786-3129-4726-ab8e-583ca18e8ee6" />
 ### 7)	cp Command
 
 The cp command is used to copy a file or directory.
 
 Syntax: cp <existing file name> <new file name>
 
-<img width="296" height="45" alt="Screenshot 2025-08-24 194537" src="https://github.com/user-attachments/assets/30b9c8f4-c164-441d-b3dd-3d2e8894ca1e" />
+<img width="772" height="112" alt="image" src="https://github.com/user-attachments/assets/c2146cc1-a89b-42f2-8417-6f9f7fa21213" />
 
-<img width="340" height="35" alt="Screenshot 2025-08-24 194544" src="https://github.com/user-attachments/assets/ef893ccc-4e67-48b8-acc1-695c9128f4c5" />
 
 ### 8)	gedit Command
 
 The gedit is a general-purpose text editor. It can be used to create and edit all kinds of text files.
 
 Syntax: gedit file_name
-<img width="318" height="45" alt="Screenshot 2025-08-24 194551" src="https://github.com/user-attachments/assets/1a70f9de-1bc6-4b62-a2ba-3fec4479b585" />
-
+<img width="763" height="53" alt="image" src="https://github.com/user-attachments/assets/0af59bc1-4b14-459f-bd3d-7f8f049a76d8" />
 
 ### 9)	su Command
 
 The su command provides administrative access to another user. In other words, it allows access of the Linux shell to another user.
 
 Syntax: su <user name>
-<img width="200" height="46" alt="Screenshot 2025-08-24 195054" src="https://github.com/user-attachments/assets/ee29ad82-842c-4ef6-ab3d-14fc8f8c0fb0" />
+<img width="751" height="65" alt="image" src="https://github.com/user-attachments/assets/5173ffbf-c7b1-49ee-accf-a03486882e22" />
 
 
 ### 10)	mv Command
