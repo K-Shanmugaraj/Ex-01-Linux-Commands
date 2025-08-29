@@ -228,7 +228,7 @@ The sort command is used to sort files in alphabetical order.
 Syntax:sort <file name>
 
 
- <img width="361" height="224" alt="Screenshot 2025-08-24 200245" src="https://github.com/user-attachments/assets/3469d1bc-d1b9-4167-a212-3c20b12cacf4" />
+<img width="760" height="281" alt="image" src="https://github.com/user-attachments/assets/0047e838-1903-4007-b932-4f1685ea7430" />
 
 ### 26)	cal Command
 
@@ -236,7 +236,7 @@ The cal command is used to display the current month's calendar with the current
 
 Syntax: cal
 
-<img width="308" height="178" alt="Screenshot 2025-08-24 200251" src="https://github.com/user-attachments/assets/c97b9e2c-184a-49db-bf0d-ebe72f9e4f28" />
+<img width="746" height="218" alt="image" src="https://github.com/user-attachments/assets/6ce23476-ddc9-4fed-b067-ea430235edcb" />
 
 
 ### 27)	clear Command
@@ -245,14 +245,15 @@ Linux clear command is used to clear the terminal screen.
 
 Syntax: clear
 
-
-<img width="313" height="42" alt="Screenshot 2025-08-24 200522" src="https://github.com/user-attachments/assets/740139f6-d3ab-4f12-99da-3a003f010a8c" />
+<img width="767" height="57" alt="image" src="https://github.com/user-attachments/assets/83dfd71b-922f-4a55-9460-89b605921f3b" />
+<img width="750" height="137" alt="image" src="https://github.com/user-attachments/assets/bf1b6362-ef31-4954-b1e9-a874fada55ef" />
 
 ### 28)	mail Command
 
 The mail command is used to send emails from the command line.
 
 Syntax: mail -s "Subject" <recipient address>
+<img width="764" height="112" alt="image" src="https://github.com/user-attachments/assets/7740fff2-e1f5-4a00-8b6e-4abe2d0309ee" />
 
  
 ### 29)	df Command
@@ -261,7 +262,7 @@ The df command is used to display the disk space used in the file system. It dis
 
 Syntax: df
 
-<img width="1037" height="288" alt="Screenshot 2025-08-24 200300" src="https://github.com/user-attachments/assets/020f94b8-7fcb-4079-a7f0-d8d1f2976fff" />
+<img width="922" height="278" alt="image" src="https://github.com/user-attachments/assets/2729365e-a5c5-4e25-94b0-e2e110be7253" />
 
 ### 30)	find Command
 
@@ -269,14 +270,7 @@ The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
 
-
-
-
-
-<img width="301" height="251" alt="Screenshot 2025-08-24 200315" src="https://github.com/user-attachments/assets/a5ce3c68-58bd-4dc1-aaf6-1dbe74460cb8" />
-
-
-
+<img width="744" height="326" alt="image" src="https://github.com/user-attachments/assets/13984486-d543-41c8-add8-8ccd03a6870f" />
 
 
 
@@ -293,4 +287,4 @@ Syntax: find.-name”*.pdf”
 
 ## Result:
 
-Thus, the execution of various Linux commands is executed successfully using Ubuntu OS.
+Thus, the execution of various Linux commands is executed successfully using Linux OS.
