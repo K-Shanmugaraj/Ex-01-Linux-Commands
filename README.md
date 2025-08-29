@@ -101,15 +101,14 @@ The mv command is used to move a file or a directory form one location to anothe
 
 Syntax: mv <file name> <directory path>
 
- <img width="275" height="55" alt="Screenshot 2025-08-24 195126" src="https://github.com/user-attachments/assets/0d8c4f22-4bbf-417e-a369-735cf8d759d0" />
+<img width="756" height="56" alt="image" src="https://github.com/user-attachments/assets/a8964c30-631c-40a1-a06e-e4165939307f" />
 
 ## 11)	rename Command
 
 The rename command is used to rename files. It is useful for renaming a large group of files.
 
 Syntax: rename 's/old-name/new-name/' files
-<img width="874" height="133" alt="Screenshot 2025-08-24 195138" src="https://github.com/user-attachments/assets/ccf576a8-0ae6-4ecd-b7fe-a6aaf7038240" />
-
+<img width="766" height="142" alt="image" src="https://github.com/user-attachments/assets/223d614b-5c47-4166-8c75-21f09e39fdd8" />
 
 ### 12)	head Command
 
@@ -117,10 +116,7 @@ The head command is used to display the content of a file. It displays the first
 
 Syntax: head <file name>
 
-
-
-<img width="319" height="201" alt="Screenshot 2025-08-24 195257" src="https://github.com/user-attachments/assets/53e042ef-e882-4318-b5de-0217df2b76b5" />
-
+<img width="749" height="314" alt="image" src="https://github.com/user-attachments/assets/b8627fe0-7673-4af2-a7c7-88d2eed4a443" />
 
 ### 13)	tail Command
 
@@ -128,7 +124,7 @@ The tail command is similar to the head command. The difference between both com
 
 Syntax: tail <file name>
 
-<img width="283" height="196" alt="Screenshot 2025-08-24 195305" src="https://github.com/user-attachments/assets/451b09bf-6f07-4ad5-8b96-92dae91df772" />
+<img width="754" height="250" alt="image" src="https://github.com/user-attachments/assets/48e8ab62-b429-42f1-9322-c1b7148ff478" />
 
  
 ### 14)	id Command
@@ -138,7 +134,7 @@ The id command is used to display the user ID (UID) and group ID (GID).
 Syntax: id
 
 
-<img width="948" height="102" alt="Screenshot 2025-08-24 195312" src="https://github.com/user-attachments/assets/fd0e98c2-ac17-433b-8d6a-b279f3f46eaa" />
+<img width="927" height="118" alt="image" src="https://github.com/user-attachments/assets/eb19422f-2e65-47ce-9778-b650a9d23422" />
 
 ### 15)	grep Command
 
@@ -146,8 +142,7 @@ The grep is the most powerful and used filter in a Linux system. The 'grep' stan
 
 Syntax: command | grep <search word>
 
-<img width="298" height="56" alt="Screenshot 2025-08-24 195317" src="https://github.com/user-attachments/assets/49416cc2-f0bc-4db3-8898-4abee09f2fb4" />
-
+<img width="761" height="78" alt="image" src="https://github.com/user-attachments/assets/0a692eb6-b688-4636-97cd-3a56de243fcc" />
 
 ### 16)	tr Command
 
@@ -155,7 +150,7 @@ The tr command is used to translate the file content like from lower case to upp
 
 Syntax: command | tr <'old'> <'new'>
 
-<img width="386" height="212" alt="Screenshot 2025-08-24 195324" src="https://github.com/user-attachments/assets/7d48383a-abe4-4c50-9166-a1dc9022a563" />
+<img width="752" height="261" alt="image" src="https://github.com/user-attachments/assets/8d667c68-140a-4c25-ad46-1d0da71a6851" />
 
 ### 17)	chmod Command
 
@@ -163,7 +158,7 @@ The chmod command is used to change the access mode of a file (i.e., read, write
 
 Syntax: chmod<options><permissions><file_name>
 
-<img width="521" height="108" alt="Screenshot 2025-08-24 195332" src="https://github.com/user-attachments/assets/07279f2a-3b1c-4360-8da5-14e943539cea" />
+<img width="741" height="139" alt="image" src="https://github.com/user-attachments/assets/edbef9a7-b5d7-4cde-a19b-152892a218be" />
 
 ### 18)	tar Command
 
@@ -172,7 +167,7 @@ The tar command is used for creating Archieve and extracting the archieve files.
 Syntax: tar[options][archieve-file] [file to be archieved]
 $ tar xvzf file.tar *.c
 
- <img width="355" height="148" alt="Screenshot 2025-08-24 195536" src="https://github.com/user-attachments/assets/c9dcbba9-1f8d-425e-9d2b-17eec9d90ef8" />
+<img width="762" height="178" alt="image" src="https://github.com/user-attachments/assets/b73360d1-eba8-46b6-899a-b7ea9495745b" />
 
 ### 19)	chown Command
 
@@ -180,7 +175,7 @@ The chown command is used to change ownership.
 
 Syntax: chown owner_name file_name
 
-<img width="519" height="128" alt="Screenshot 2025-08-24 195545" src="https://github.com/user-attachments/assets/f5b10fd3-531b-41ba-aee0-90b211e67811" />
+<img width="760" height="130" alt="image" src="https://github.com/user-attachments/assets/32df28a0-41a0-4d8f-9915-f2c1f26eb7d1" />
 
 ### 20)	make Command
 
@@ -188,7 +183,7 @@ The make command is used for building and maintaining group of program.
 
 Syntax: make [-f makefile][options]…….[targets]….
 
-<img width="209" height="62" alt="image" src="https://github.com/user-attachments/assets/b9208aed-4851-4d88-b0e7-a5c96bf0623e" />
+<img width="762" height="73" alt="image" src="https://github.com/user-attachments/assets/ddadab25-dd33-4b1b-9df3-d4cf2a80db9f" />
 
 
 ### 21)	ifconfig Command
