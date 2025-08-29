@@ -31,7 +31,8 @@ The ls command is used to display a list of content of a directory.
 The pwd command is used to display the location of the current working directory.
 
 Syntax: pwd
-<img width="698" height="103" alt="Screenshot 2025-08-24 194444" src="https://github.com/user-attachments/assets/acaaaa3d-921a-4a16-88a3-41f7b08f3ef0" />
+<img width="775" height="71" alt="image" src="https://github.com/user-attachments/assets/8e247fcf-d66a-4e80-949d-0425bc449977" />
+
 
  
 ### 3)	mkdir Command
@@ -40,7 +41,8 @@ The mkdir command is used to create a new directory under any directory.
 
 Syntax: mkdir <directory name>
 
-<img width="299" height="39" alt="Screenshot 2025-08-24 194456" src="https://github.com/user-attachments/assets/d6e8248d-0080-46a6-b098-83297180d49b" />
+<img width="775" height="54" alt="image" src="https://github.com/user-attachments/assets/8b065a3c-2655-424e-9921-868a0292fe50" />
+
 
 ### 4)	rmdir Command
 
@@ -48,7 +50,8 @@ The rmdir command is used to delete a directory.
 
 Syntax: rmdir <directory name>
 
-<img width="299" height="61" alt="Screenshot 2025-08-24 194525" src="https://github.com/user-attachments/assets/697b7ecc-0d30-4f58-989d-090ba6f0705b" />
+<img width="779" height="57" alt="image" src="https://github.com/user-attachments/assets/165fd8bb-9160-4b33-b1c4-0f087fc6ecad" />
+
 
 ### 5)	cd Command
 
